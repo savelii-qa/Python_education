@@ -6,7 +6,7 @@
  #   return sum([x ** 2 for x in array])
 
 #print(luckyTickets(6))
-# Умный код с хабра - сверял результат, сложный какой-то
+
 
 
 start = 0     # первое значение
